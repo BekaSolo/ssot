@@ -2540,6 +2540,10 @@ video {
   padding-right: 690px;
 }
 
+.pt-\[140px\] {
+  padding-top: 140px;
+}
+
 .text-left {
   text-align: left;
 }
